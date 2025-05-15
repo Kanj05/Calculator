@@ -23,3 +23,18 @@ HTML5: Structure of the calculator
 CSS3: Styling and layout using Grid
 
 JavaScript (Vanilla): Handling input, operations, and display
+
+
+
+How to Use
+
+1. Clone or download the repository.
+
+
+2. Open the index.html file in any web browser.
+
+
+3. Start calculating—no installation needed!
+
+
+
